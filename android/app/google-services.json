@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574134162698",
+    "project_id": "iceberg-d0e8f",
+    "storage_bucket": "iceberg-d0e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574134162698:android:49821e3972e81baea716f3",
+        "android_client_info": {
+          "package_name": "com.example.iceberg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574134162698-r9sd7p0ue35g6gq7jmi1phcmtboajojp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVnZHrme-ItHtMKYPQmSVZlW9D-Wh-4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574134162698-r9sd7p0ue35g6gq7jmi1phcmtboajojp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
